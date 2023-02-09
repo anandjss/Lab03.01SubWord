@@ -4,7 +4,9 @@ import java.util.Collections;
 import java.util.Scanner;
 
 /**
- *
+ * Determines whether or not word inputs have subwords
+ * @author 24jayashankar
+ * @version 02/09/23
  */
 public class SubWordFinder implements WordFinder     {
     private ArrayList<ArrayList<String>> dictionary;
